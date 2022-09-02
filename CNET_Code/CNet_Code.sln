@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CNet_Code", "CNet_Code.csproj", "{4AAFAEA4-7BEC-43C0-8F59-31E3E8E01E03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AAFAEA4-7BEC-43C0-8F59-31E3E8E01E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAFAEA4-7BEC-43C0-8F59-31E3E8E01E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAFAEA4-7BEC-43C0-8F59-31E3E8E01E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAFAEA4-7BEC-43C0-8F59-31E3E8E01E03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1088DEAF-7C6A-40C7-B690-E479F1CA1B3D}
+	EndGlobalSection
+EndGlobal
